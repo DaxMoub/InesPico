@@ -1,1 +1,1 @@
-image1.bin
+image2.bin
